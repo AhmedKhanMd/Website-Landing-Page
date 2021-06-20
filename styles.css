@@ -36,15 +36,15 @@ body{
 }
 
 .jumbotron > .container > h1 {
-    font-size: 70px;
+    font-size: 80px;
     color: white;
 }
 
-.row {
+.icon-image {
     background-color: transparent;
     color: white;
     text-align: center;
-    padding-top: 100px;
+    padding: 100px 0;
 }
 
 .row h2{
@@ -59,6 +59,7 @@ body{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 100px;
+    margin-top: 10px;
 }
 
 .contact a{
@@ -85,4 +86,14 @@ body{
     font-size: 15px;
     padding: 10px 0;
     text-align: center;
+}
+
+@media (max-width: 768px) {
+    .icon-image {
+        height: 50px;
+    }
+
+    .contact a{
+        margin-top: 80px;
+    }
 }
