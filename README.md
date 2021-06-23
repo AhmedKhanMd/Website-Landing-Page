@@ -1,6 +1,6 @@
 # Website-Landing-Page
 
-This is the landing Page of a Website which I have built to apply my knowledge of HTML, CSS and Bootstrap.
+This is the landing Page of a responsive Website which I have built to apply my knowledge of HTML, CSS and Bootstrap.
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
